@@ -1,0 +1,183 @@
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\appsettings.Development.json
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\appsettings.json
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.exe
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.deps.json
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\ref\APIPRUEBAS.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.pdb
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Humanizer.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\staticwebassets.build.json
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\staticwebassets.development.json
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\scopedcss\bundle\APIPRUEBAS.styles.css
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\ref\APIPRUEBAS.dll
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.pdb
+E:\WorkSpaceAD\YOUTUBE\069_SISTEMA TALLER MECANICO\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.genruntimeconfig.cache
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\appsettings.Development.json
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\appsettings.json
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.exe
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.deps.json
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\ref\APIPRUEBAS.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.pdb
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Humanizer.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\staticwebassets.build.json
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\staticwebassets.development.json
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\scopedcss\bundle\APIPRUEBAS.styles.css
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\ref\APIPRUEBAS.dll
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.pdb
+E:\WorkSpaceAD\YOUTUBE\068_FUNCIONALIDAD API EF\SUBIR\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.genruntimeconfig.cache
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\appsettings.json
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.exe
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.deps.json
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.runtimeconfig.json
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\APIPRUEBAS.pdb
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.AssemblyReference.cache
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.AssemblyInfoInputs.cache
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.AssemblyInfo.cs
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\scopedcss\bundle\APIPRUEBAS.styles.css
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.csproj.CopyComplete
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\refint\APIPRUEBAS.dll
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.pdb
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\APIPRUEBAS.genruntimeconfig.cache
+C:\Users\LAPTOP HPP\Desktop\sistemas_c\068_FUNCIONALIDAD_API_EF_CORE\APIPRUEBAS\APIPRUEBAS\obj\Debug\net6.0\ref\APIPRUEBAS.dll
