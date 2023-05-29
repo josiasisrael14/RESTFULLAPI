@@ -36,6 +36,7 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest ** un c
 
 <h1>Clase Productos</h1>
 
+![image](https://github.com/josiasisrael14/RESTFULLAPI/assets/43103053/38517faf-b37e-4b7b-bb78-4d30e09fe32a)
 
 
  
