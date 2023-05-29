@@ -38,6 +38,13 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest ** un c
 
 ![image](https://github.com/josiasisrael14/RESTFULLAPI/assets/43103053/38517faf-b37e-4b7b-bb78-4d30e09fe32a)
 
+<h1>Controladores</h1></br>
+<p>El metodo, listar , listar por id , actualizar, delete</p>
+
+![image](https://github.com/josiasisrael14/RESTFULLAPI/assets/43103053/7b7d109b-57b1-434b-8708-c01098a2f864)
+
+
+
 
  
  
