@@ -26,6 +26,9 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest ** un c
  <p>Estoy realizando las migraciones para luego enviarselo a la base de datos</p>
  
  ![image](https://github.com/josiasisrael14/RESTFULLAPI/assets/43103053/8cd2d5a9-4307-4672-90d5-2cf3dca69967)
+ 
+ ![image](https://github.com/josiasisrael14/RESTFULLAPI/assets/43103053/fc819013-6464-48ef-832c-d93adea834ac)
+
 
  
  
