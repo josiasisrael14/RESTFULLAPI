@@ -29,6 +29,14 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest ** un c
  
  ![image](https://github.com/josiasisrael14/RESTFULLAPI/assets/43103053/fc819013-6464-48ef-832c-d93adea834ac)
 
+<h1>Clase categoria</h1></br>
+<p>La clase categoria esta validado segun el tipo de dato requerido , con esta clase definida podemos hacer el uso de sus datos</p>
+
+![image](https://github.com/josiasisrael14/RESTFULLAPI/assets/43103053/231dd4c1-08e9-4fdd-af24-acf670b4a047)
+
+<h1>Clase Productos</h1>
+
+
 
  
  
